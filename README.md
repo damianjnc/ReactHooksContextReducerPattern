@@ -1,2 +1,0 @@
-# ReactHooksContextReducerPattern
-Created with CodeSandbox
